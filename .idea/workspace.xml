@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c26261b0-247f-4c57-9f34-9c52e86917e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/senac/todo/TodoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/senac/todo/controllers/ToDoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/senac/todo/model/ToDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/senac/todo/repositories/ToDoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/senac/todo/services/ToDoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/proposta.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/senac/todo/TodoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/senac/todo/controllers/ToDoControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/senac/todo/services/ToDoServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/br/com/senac/todo/controllers/ToDoControllerTest.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CqfuFuSQkggsALlLXMyxUNRJjh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/lucy_/IdeaProjects/tdd",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ToDoControllerTest">
+    <configuration name="ToDoControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.senac.todo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.senac.todo.controllers" />
+      <option name="MAIN_CLASS_NAME" value="br.com.senac.todo.controllers.ToDoControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToDoControllerTest.deleteToDo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.senac.todo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.senac.todo.controllers" />
+      <option name="MAIN_CLASS_NAME" value="br.com.senac.todo.controllers.ToDoControllerTest" />
+      <option name="METHOD_NAME" value="deleteToDo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToDoControllerTest.editToDo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.senac.todo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.senac.todo.controllers" />
+      <option name="MAIN_CLASS_NAME" value="br.com.senac.todo.controllers.ToDoControllerTest" />
+      <option name="METHOD_NAME" value="editToDo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToDoControllerTest.getToDo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.senac.todo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.senac.todo.controllers" />
+      <option name="MAIN_CLASS_NAME" value="br.com.senac.todo.controllers.ToDoControllerTest" />
+      <option name="METHOD_NAME" value="getToDo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToDoServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.senac.todo.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.senac.todo.services" />
+      <option name="MAIN_CLASS_NAME" value="br.com.senac.todo.services.ToDoServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ToDoControllerTest" />
+        <item itemvalue="JUnit.ToDoControllerTest.editToDo" />
+        <item itemvalue="JUnit.ToDoControllerTest.deleteToDo" />
+        <item itemvalue="JUnit.ToDoServiceTest" />
+        <item itemvalue="JUnit.ToDoControllerTest.getToDo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c26261b0-247f-4c57-9f34-9c52e86917e4" name="Changes" comment="" />
+      <created>1659535267729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659535267729</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
