@@ -109,4 +109,32 @@ public class TestWebBrowser {
 
         //var nomeCompleto = driver.findElement(By.name("input[name='nome_completo']")).getAttribute("value");
     }
+
+    @Test
+    void MagazineLuizaBuy(){
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+
+        driver.get("https://www.magazineluiza.com.br");
+        driver.manage().window().maximize();
+
+        searchButton = driver.findElement(By.id("input-search"));
+
+        actions = new Actions(driver);
+        actions.moveToElement(searchButton).click().perform();
+
+        searchBox = driver.findElement(By.id("input-search"));
+        searchBox.sendKeys("notebook gamer");
+
+        searchButton = driver.findElement(By.cssSelector("[data-testid='search-submit']"));
+        actions.moveToElement(searchButton).click().perform();
+
+        searchBox = driver.findElement(By.cssSelector("[alt='Notebook Gamer Acer Nitro 5 Intel Core i5 8GB - 1TB HD 256GB SSD Nvidia GTX 1650 4GB Windows 11']"));
+        searchBox.click();
+
+        searchResults = driver.findElement(By.cssSelector("[data-testid='bagButton']"));
+        actions.moveToElement(searchResults).click().perform();
+
+        searchResults = driver.findElement(By.cssSelector("[data-testid='summary-continue-btn']"));
+        actions.moveToElement(searchResults).click().perform();
+    }
 }

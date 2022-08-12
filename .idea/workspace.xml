@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c26261b0-247f-4c57-9f34-9c52e86917e4" name="Changes" comment="">
+    <list default="true" id="c26261b0-247f-4c57-9f34-9c52e86917e4" name="Changes" comment="feat: meio que uma correção do exercicio 03 com mais detalhes">
+      <change afterPath="$PROJECT_DIR$/TesteCompra.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/br/com/senac/todo/webdriver/TestWebBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/senac/todo/webdriver/TestWebBrowser.java" afterDir="false" />
     </list>
@@ -69,7 +70,55 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.TestWebBrowser.searchSenacRJEX03">
+  <component name="RunManager" selected="JUnit.TestWebBrowser.MagazineLuizaBuy">
+    <configuration name="TestWebBrowser.AmericanasBuy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.senac.todo.webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.senac.todo.webdriver" />
+      <option name="MAIN_CLASS_NAME" value="br.com.senac.todo.webdriver.TestWebBrowser" />
+      <option name="METHOD_NAME" value="AmericanasBuy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWebBrowser.MagazineLuizaBuy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.senac.todo.webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.senac.todo.webdriver" />
+      <option name="MAIN_CLASS_NAME" value="br.com.senac.todo.webdriver.TestWebBrowser" />
+      <option name="METHOD_NAME" value="MagazineLuizaBuy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWebBrowser.SubmarinoBuy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.senac.todo.webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.senac.todo.webdriver" />
+      <option name="MAIN_CLASS_NAME" value="br.com.senac.todo.webdriver.TestWebBrowser" />
+      <option name="METHOD_NAME" value="SubmarinoBuy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestWebBrowser.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
       <extension name="coverage">
@@ -81,54 +130,6 @@
       <option name="PACKAGE_NAME" value="br.com.senac.todo.webdriver" />
       <option name="MAIN_CLASS_NAME" value="br.com.senac.todo.webdriver.TestWebBrowser" />
       <option name="METHOD_NAME" value="search" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestWebBrowser.searchEx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tdd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.senac.todo.webdriver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="br.com.senac.todo.webdriver" />
-      <option name="MAIN_CLASS_NAME" value="br.com.senac.todo.webdriver.TestWebBrowser" />
-      <option name="METHOD_NAME" value="searchEx" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestWebBrowser.searchExercice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tdd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.senac.todo.webdriver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="br.com.senac.todo.webdriver" />
-      <option name="MAIN_CLASS_NAME" value="br.com.senac.todo.webdriver.TestWebBrowser" />
-      <option name="METHOD_NAME" value="searchExercice" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestWebBrowser.searchSenacRJ" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tdd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.senac.todo.webdriver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="br.com.senac.todo.webdriver" />
-      <option name="MAIN_CLASS_NAME" value="br.com.senac.todo.webdriver.TestWebBrowser" />
-      <option name="METHOD_NAME" value="searchSenacRJ" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestWebBrowser.searchSenacRJEX03" />
-        <item itemvalue="JUnit.TestWebBrowser.searchSenacRJ" />
+        <item itemvalue="JUnit.TestWebBrowser.MagazineLuizaBuy" />
         <item itemvalue="JUnit.TestWebBrowser.search" />
-        <item itemvalue="JUnit.TestWebBrowser.searchExercice" />
-        <item itemvalue="JUnit.TestWebBrowser.searchEx" />
+        <item itemvalue="JUnit.TestWebBrowser.searchSenacRJEX03" />
+        <item itemvalue="JUnit.TestWebBrowser.SubmarinoBuy" />
+        <item itemvalue="JUnit.TestWebBrowser.AmericanasBuy" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +170,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659535267729</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: meio que uma correção do exercicio 03 com mais detalhes">
+      <created>1660175948275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660175948275</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,5 +193,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="feat: meio que uma correção do exercicio 03 com mais detalhes" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: meio que uma correção do exercicio 03 com mais detalhes" />
   </component>
 </project>
